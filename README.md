@@ -1,6 +1,6 @@
-# Analyzes Project
+# Essay - Analyzes Project
 ## Geog 458
-### Zejun Zheng
+## Zejun Zheng
  
 ## Ellis Act Evictions, San Francisco – Anti-Eviction Mapping Project
 ### Introduction
