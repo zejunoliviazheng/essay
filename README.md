@@ -1,4 +1,4 @@
-# Final Essay - Analyzes a digital-geography-related project
+# Final Essay - Analyzes A Digital-Geography-Related Project
 ## Geog 458
 ## Zejun Zheng
  
