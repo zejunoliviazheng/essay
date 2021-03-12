@@ -2,7 +2,7 @@
 ## Geog 458
 ## Zejun Zheng
  
-## * Ellis Act Evictions, San Francisco – Anti-Eviction Mapping Project*
+## **Ellis Act Evictions, San Francisco – Anti-Eviction Mapping Project**
 ### Introduction
 The anti-eviction mapping project includes data visualization and analysis connected to the resistance of the residence in San Francisco facing gentrifying landscapes. The project was created to make visualization available for people to explore information regarding San Francisco evictions. One of the project aims was to provide a piece of online information regarding evictions that could be easily accessed by the citizens and anybody else interested in the data. The project looks into incidences of evictions in San Francisco and the effects it has caused on the affected people. An anti-eviction mapping project allows one to navigate the data, which is incorporated with audios making explanations and comprehension of the information more interactive. The anti-eviction mapping project was created to collect data that would be used in support of the ground and other anti-eviction programs. The project works by creating digital maps with histories for people to understand the trends of evictions.
 Furthermore, the project would sensitize ordinary citizens on their rights regarding renting houses. The data, whose collection began in 2013, shows San Francisco's evictions between 1994 and 2020.  The Ellis Eviction Act triggered the beginning of the project. One of the project aims was to create a collective resistance among the citizens to stand for their rights. Besides, the data forms a basis for designing and developing movements to stand against racist methodologies.  
